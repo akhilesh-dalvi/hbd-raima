@@ -170,9 +170,6 @@ function App() {
                 {data.hero.paragraphs.map((paragraph, index) => (
                   <p key={index}>{paragraph}</p>
                 ))}
-                <p className="font-medium text-foreground">
-                  With all my love, {fromName}
-                </p>
               </div>
             </div>
           </motion.section>
