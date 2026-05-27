@@ -1,0 +1,38 @@
+{
+  "birthdayGirl": "Raima",
+  "fromName": "Akhilesh",
+  "hero": {
+    "paragraphs": [
+      "🌸 I hope today feels soft, bright, and completely yours. You deserve the kind of day where every little thing makes you smile, where you feel loved without having to ask for it, and where the world is a little gentler around you. 🎂",
+      "✨ This tiny website is my way of saving a few promises in one place. Some are dates, some are treats, and some are just excuses to spend more time with you. Redeem them whenever you want. I will be very seriously committed to honoring them. 🎁",
+      "💛 It's not about who's right — it's that I don't want us to keep hurting each other this way. Every fight scares me a little because I don't want to lose you. I love you more than I'm good at showing sometimes. When we fight I don't stop loving you, I just forget how to say it. 🫂",
+      "Marshall 👹 says happy birthday too. 🐾"
+    ]
+  },
+  "coupons": [
+    {
+      "id": "dinner-date-eco",
+      "title": "🍽️ Dinner Date @ ECO",
+      "description": "Date at ECO, with Lets Go To the ECO and Shawarma plate. 🥙"
+    },
+    {
+      "id": "coffee-date",
+      "title": "☕ Coffee Date @ Starbucks",
+      "description": "🍍 cold brew / Iced Shaken Espresso / anything you want. 🧋"
+    },
+    {
+      "id": "dinner-at-home",
+      "title": "🏠 Dinner Date @ Home",
+      "description": "Shizusan sushi and coke with lemon in comfy cozy bed. 🍣🥤"
+    },
+    {
+      "id": "breakfast-in-bed",
+      "title": "🛏️ Breakfast in Bed",
+      "description": "You don't move. I handle everything. Breakfast comes to you. 🥞☀️"
+    }
+  ],
+  "promise": {
+    "title": "This doesn't expire. 💫",
+    "description": "I'm not promising perfect. I'm promising I'll keep trying and be a better version of myself. 💪🏼 The real gift is that you can keep redeeming moments with me, today and on all the ordinary days after today. ❤️ - Akhilesh"
+  }
+}
